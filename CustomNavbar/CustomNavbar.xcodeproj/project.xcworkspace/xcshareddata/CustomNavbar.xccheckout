@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A9BDAA2A-3E99-42C3-895F-9228EE1341B1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomNavbar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8162006E-EFD6-45AF-A66C-6103BA36FFA0</key>
+		<string>https://github.com/rahul9712/CustomNavBar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomNavbar/CustomNavbar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8162006E-EFD6-45AF-A66C-6103BA36FFA0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rahul9712/CustomNavBar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8162006E-EFD6-45AF-A66C-6103BA36FFA0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8162006E-EFD6-45AF-A66C-6103BA36FFA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GITHUB</string>
+		</dict>
+	</array>
+</dict>
+</plist>
