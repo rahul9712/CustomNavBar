@@ -10,7 +10,7 @@ profile
 *.xcodeproj/*.pbxuser
 *.xcodeproj/*.perspectivev3
 *.xcodeproj/*.xcuserstate
-*/xcuserdata/
+*/xcuserdata/*
 *Build/
 
 #========================================
